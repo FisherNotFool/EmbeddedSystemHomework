@@ -1,0 +1,2 @@
+# EmbeddedSystemHomework
+这是一个嵌入式系统课程的作业仓库
